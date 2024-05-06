@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/phase-2-code-challenge/static/css/main.d070eabf.css",
-    "main.js": "/phase-2-code-challenge/static/js/main.ff1c2347.js",
-    "static/js/453.3da55ab7.chunk.js": "/phase-2-code-challenge/static/js/453.3da55ab7.chunk.js",
-    "index.html": "/phase-2-code-challenge/index.html",
-    "main.d070eabf.css.map": "/phase-2-code-challenge/static/css/main.d070eabf.css.map",
-    "main.ff1c2347.js.map": "/phase-2-code-challenge/static/js/main.ff1c2347.js.map",
-    "453.3da55ab7.chunk.js.map": "/phase-2-code-challenge/static/js/453.3da55ab7.chunk.js.map"
+    "main.css": "/GG20905/code-challenge-bot-battle/tree/gh-pages-2/static/css/main.d070eabf.css",
+    "main.js": "/GG20905/code-challenge-bot-battle/tree/gh-pages-2/static/js/main.71a36d85.js",
+    "static/js/453.3da55ab7.chunk.js": "/GG20905/code-challenge-bot-battle/tree/gh-pages-2/static/js/453.3da55ab7.chunk.js",
+    "index.html": "/GG20905/code-challenge-bot-battle/tree/gh-pages-2/index.html",
+    "main.d070eabf.css.map": "/GG20905/code-challenge-bot-battle/tree/gh-pages-2/static/css/main.d070eabf.css.map",
+    "main.71a36d85.js.map": "/GG20905/code-challenge-bot-battle/tree/gh-pages-2/static/js/main.71a36d85.js.map",
+    "453.3da55ab7.chunk.js.map": "/GG20905/code-challenge-bot-battle/tree/gh-pages-2/static/js/453.3da55ab7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d070eabf.css",
-    "static/js/main.ff1c2347.js"
+    "static/js/main.71a36d85.js"
   ]
 }
