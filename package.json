@@ -1,7 +1,7 @@
 {
   "name": "bot-battle",
   "version": "0.1.0",
-  "homepage": "https://github.com/GG20905/phase-2-code-challenge",
+  "homepage":  "https://github.com/GG20905/code-challenge-bot-battle/tree/gh-pages-2",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
